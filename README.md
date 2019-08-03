@@ -1,4 +1,4 @@
-# Microsoft Azure CLI
+# Microsoft Azure CL
 
 [![Python](https://img.shields.io/pypi/pyversions/azure-cli.svg?maxAge=2592000)](https://pypi.python.org/pypi/azure-cli)
 [![Travis](https://travis-ci.org/Azure/azure-cli.svg?branch=dev)](https://travis-ci.org/Azure/azure-cli)
